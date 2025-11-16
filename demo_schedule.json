@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "medicine_name": "Amlodipine (BP)",
+    "time": "08:15",
+    "message": "Are uncle, BP ki dawai lena yaad hai na? Jaldi se le lijiye!",
+    "frequency": "daily",
+    "active": true,
+    "created_at": "2025-11-16 13:41:10"
+  },
+  {
+    "id": 2,
+    "medicine_name": "Metformin (Diabetes)",
+    "time": "08:30",
+    "message": "Good morning! It's time for your diabetes medicine. Please take it with breakfast.",
+    "frequency": "daily",
+    "active": true,
+    "created_at": "2025-11-16 13:41:10"
+  },
+  {
+    "id": 3,
+    "medicine_name": "Atorvastatin (Heart)",
+    "time": "21:00",
+    "message": "Namaste ji! Raat ki heart medicine lena mat bhooliye. Dinner ke baad le lijiye.",
+    "frequency": "daily",
+    "active": true,
+    "created_at": "2025-11-16 13:41:10"
+  },
+  {
+    "id": 4,
+    "medicine_name": "Thyroxine (Thyroid)",
+    "time": "06:00",
+    "message": "Suprabhat! Aapki thyroid ki dawai ka samay hai. Khali pet lena hai.",
+    "frequency": "daily",
+    "active": false,
+    "created_at": "2025-11-16 13:41:10"
+  }
+]
